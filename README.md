@@ -7,6 +7,8 @@ Jinyan Su, Sarah Dean
 
 # Instructions
 
+Create directory ```./dataset``` and ```results```.
+
 ## Data preprocess
 
 First, download MovieLens 10M Dataset into to the ```./dataset``` directory and unzip it. 
