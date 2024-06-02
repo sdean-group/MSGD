@@ -7,7 +7,7 @@ Jinyan Su, Sarah Dean
 
 # Instructions
 
-Create directory ```./dataset``` and ```results```.
+Create directory ```./dataset``` and ```./results```.
 
 ## Data preprocess
 
